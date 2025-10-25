@@ -36,10 +36,7 @@ Each rule can be configured with:
 ## 🚀 Quick Start
 
 ### Step 1: Install the App
-```bash
-flutter build apk
-flutter install -d bdb1ca32
-```
+
 
 ### Step 2: Launch and Grant Permissions
 1. Open the **BusyRN** app
